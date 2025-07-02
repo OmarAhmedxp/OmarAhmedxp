@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OmarAbdulghafar
+- 👋 Hi, I’m Omar Ahmed
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Pentesting
 - 📫 How to reach me omarr.ahmed14@gmail.com
