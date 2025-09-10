@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar Ahmed
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m a noob bug bounty hunter
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m a hubmle bug bounty hunter
 - 📫 How to reach me omarr.ahmed14@gmail.com
 
 <!---
